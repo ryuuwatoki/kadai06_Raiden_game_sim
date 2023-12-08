@@ -1,0 +1,1 @@
+# kadai06_Raiden_game_sim
