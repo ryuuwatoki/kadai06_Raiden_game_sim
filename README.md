@@ -16,7 +16,7 @@
 
 - 使い方
 
-！！PythonとPygameが必要です。！！
+PythonとPygameが必要です。
 
 main.pyに入るとゲームが開始します。
 Enterキーを押すとゲームが始まります。
